@@ -1,0 +1,9 @@
+{
+  "id": "sort-checked-plugin",
+  "name": "Sort Checked Tasks",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Asynchronously move checked top-level tasks to the bottom of their list and sort them alphabetically.",
+  "author": "Bill",
+  "isDesktopOnly": false
+}
